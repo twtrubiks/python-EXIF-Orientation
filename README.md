@@ -1,7 +1,7 @@
 # python-EXIF-Orientation
 自動判斷照片是否有被旋轉過，如有被旋轉，將照片轉正 📝
 
-* [Youtube Demo]()
+* [Youtube Demo](https://youtu.be/o1KjeLUSCB8)
 
 
 ## 特色
