@@ -23,6 +23,8 @@ git clone https://github.com/twtrubiks/python-EXIF-Orientation.git
 pip install pillow
 ```
 
+之前也有寫過一些 [pillow](https://pillow.readthedocs.io/en/4.0.x/) 的範例，可參考我之前寫的 [pillow-examples](https://github.com/twtrubiks/pillow-examples)
+
 ## 說明
 
 關於 JPG/JPEG 裡的 EXIF-Orientation 參數，可以參考這張圖
@@ -43,14 +45,14 @@ pip install pillow
 
 ## 使用方法
 
-將要轉正的圖片放在 [input_img]() 資料夾裡
+將要轉正的圖片放在 [input_img](https://github.com/twtrubiks/python-EXIF-Orientation/tree/master/input_img) 資料夾裡
 
 執行
 ```
 python app.py
 ```
 
-會將轉正的圖片輸出在 [output_img]() 資料夾裡
+會將轉正的圖片輸出在 [output_img](https://github.com/twtrubiks/python-EXIF-Orientation/tree/master/output_img) 資料夾裡
 
 ## 其他說明
 
